@@ -29,6 +29,6 @@ This project is an interactive learning platform designed to help students and p
 - **Jupyter Notebooks**: To design and host Q&A content
 - **Git/GitHub**: Version control and collaboration
 
-## Resoruces
+## Resources
 - [Kaggle](https://www.kaggle.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
