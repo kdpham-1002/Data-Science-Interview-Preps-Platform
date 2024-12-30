@@ -1,4 +1,4 @@
-# Data Science Interview Preparation Platform
+# DSDA Interview Guides
 
 ## Table of Contents
 - [Overview](#overview)
