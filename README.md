@@ -1,6 +1,6 @@
 # DSDA Interview Guides
 
-Link to website: [DSDA Interview Questions](https://kdpham-1002.github.io/mindpalace/tags/interview/)
+Link to website: [DSDA Interview Questions](https://khoapham1002.github.io/mindpalace/tags/interview/)
 
 ## Table of Contents
 - [Overview](#overview)
